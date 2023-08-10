@@ -1,0 +1,15 @@
+/workspaces/SpreadsheetsFileUnion/bin/Debug/net7.0/SpreadsheetsFileUnion
+/workspaces/SpreadsheetsFileUnion/bin/Debug/net7.0/SpreadsheetsFileUnion.deps.json
+/workspaces/SpreadsheetsFileUnion/bin/Debug/net7.0/SpreadsheetsFileUnion.runtimeconfig.json
+/workspaces/SpreadsheetsFileUnion/bin/Debug/net7.0/SpreadsheetsFileUnion.dll
+/workspaces/SpreadsheetsFileUnion/bin/Debug/net7.0/SpreadsheetsFileUnion.pdb
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.csproj.AssemblyReference.cache
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.AssemblyInfoInputs.cache
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.AssemblyInfo.cs
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.csproj.CoreCompileInputs.cache
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.dll
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/refint/SpreadsheetsFileUnion.dll
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.pdb
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/SpreadsheetsFileUnion.genruntimeconfig.cache
+/workspaces/SpreadsheetsFileUnion/obj/Debug/net7.0/ref/SpreadsheetsFileUnion.dll
