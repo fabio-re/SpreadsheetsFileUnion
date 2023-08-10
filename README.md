@@ -1,5 +1,5 @@
 #SpreadshetsFileUnion
-The console application find file csv or xlsx in folders with same header and generate one union file of it.
+Is a console application .NET Core that find file csv or xlsx in folders with same header and generate one union file of it.
 
 The library used to generate excel file is Syncfusion.XlsIO.Net.Core
 
